@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "First1",
+        "lastName": "Last1",
+        "age": 20,
+        "gender": "male"
+    },
+    {
+        "firstName": "First2",
+        "lastName": "Last2",
+        "age": 21,
+        "gender": "female"
+    },
+    {
+        "firstName": "First3",
+        "lastName": "Last3",
+        "age": 22,
+        "gender": "male"
+    },
+    {
+        "firstName": "First4",
+        "lastName": "Last4",
+        "age": 23,
+        "gender": "female"
+    }
+]
